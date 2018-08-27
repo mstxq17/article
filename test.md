@@ -65,7 +65,7 @@ ssbootstrap简单写了下模版:
 
 	做完这一步之后,接下来就是全量导入数据的问题了
 
-		![image-20180828011039606](https://ws3.sinaimg.cn/large/0069RVTdgy1fuorcws3l9j315805wjw5.jpg)
+![image-20180828011039606](https://ws3.sinaimg.cn/large/0069RVTdgy1fuorcws3l9j315805wjw5.jpg)
 
 	接近90w条 导入花费了1min 42秒 这个速度的话导入1亿需要2*100=200/60=3.3小时
 

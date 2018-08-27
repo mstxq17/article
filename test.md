@@ -76,6 +76,7 @@ ssbootstrap简单写了下模版:
 	
 
 ## 0x效果
+
 	![image-20180828011456646](https://ws1.sinaimg.cn/large/0069RVTdgy1fuorhibg54j31kw0zykjl.jpg)
 
 	这个0秒其实没那么快 是因为做了缓存的缘故 第二次才会那么快 一般都是几秒.

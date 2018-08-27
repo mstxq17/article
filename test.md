@@ -76,8 +76,7 @@ ssbootstrap简单写了下模版:
 	
 
 ## 0x效果
-
-	![image-20180828011456646](https://ws1.sinaimg.cn/large/0069RVTdgy1fuorhibg54j31kw0zykjl.jpg)
+![image-20180828011456646](https://ws1.sinaimg.cn/large/0069RVTdgy1fuorhibg54j31kw0zykjl.jpg)
 
 	这个0秒其实没那么快 是因为做了缓存的缘故 第二次才会那么快 一般都是几秒.
 
@@ -119,7 +118,7 @@ PRIMARY KEY (id)
 
 	自己手动去(我就是手动的哈 自动啥的不存在的我电脑 又不是挂机的,树莓派后期考虑下)
 
-	![image-20180828012543778](https://ws2.sinaimg.cn/large/0069RVTdgy1fuorssh12vj31fg0riq6m.jpg)
+![image-20180828012543778](https://ws2.sinaimg.cn/large/0069RVTdgy1fuorssh12vj31fg0riq6m.jpg)
 
 	这里我的表没有更新数据 所以就没数据可以进行索引。
 
